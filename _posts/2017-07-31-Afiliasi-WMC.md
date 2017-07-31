@@ -23,7 +23,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/images/pic02.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/images/pic03.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/images/pic03.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}images/pic01.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/images/pic01.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/images/pic02.jpg" alt="" /></span></div>
 	</div>
 </div>
