@@ -19,9 +19,9 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 
 <div class="box alt">
 	<div class="row uniform">
-		<div class="3u"><span class="image fit"><img src="/MediumCendekia/images/pic01.jpg" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{{ site.baseurl }}/images/pic01.jpg" alt="" /></span></div>
 		<div class="9u$"><span><h3>Cipta Media</h3> <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p></span></div>
-		<div class="3u"><span class="image fit"><img src="/MediumCendekia/images/pic01.jpg" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{{ site.baseurl }}/images/pic01.jpg" alt="" /></span></div>
 		<div class="9u$"><span><h3>Creative Commons Indonesia</h3> <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p></span></div>
 	</div>
 </div>
