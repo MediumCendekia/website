@@ -1,0 +1,13 @@
+<!-- Header -->
+<header id="header">
+	<a href="{{ site.baseurl }}/index.html" class="title">{{ site.title }}</a>
+	<nav>
+		<ul>
+			{% for post in site.posts %}
+            	{% if post.title != page.title %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+			{% endfor %}
+		</ul>
+	</nav>
+</header>

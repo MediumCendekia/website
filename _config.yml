@@ -1,0 +1,38 @@
+# Site settings
+copyright: Wahana Medium Cendekia
+url: https://gitlab.com/MediumCendekia
+baseurl: /MediumCendekia
+title: Wahana Medium Cendekia
+tagline: We Provide CTO For a Day
+description: "Perusahaan yang bergerak di bidang konsultasi untuk penciptaan, perbaikan, dan pemeliharaan perangkat lunak, peta digital, dan strategi komunikasi."
+
+# Contact
+contactTagline: Anda bisa menggunakan formulir dibawah untuk menghubungi kami, atau mengirimkan surel langsung pada alamat yang tertera di kolom sebelah kanan.
+address: "Gedung Epicentrum Walk Office Suites South 529A Lt. 5 Rasuna Epicentrum.<br>Jl. HR Rasuna Said, Karet Kuningan, Setiabudi, Jakarta Selatan<br>Indonesia"
+email: admin@mediumcendekia.com
+phone: (+62) 21 5682703
+facebook: MediumCendekia
+github: mediumcendekia
+linkedin: wahanamediumcendekia
+
+# Featurette -- leave values blank if you do not want them to appear
+featuretteTitle: Spesialisasi Kami
+featuretteTagline: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+feature1Title: Lorem ipsum amet
+feature1Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature1Icon: icon major fa-code
+feature2Title: Aliquam sed nullam
+feature2Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature2Icon: icon major fa-lock
+feature3Title: Sed erat ullam corper
+feature3Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature3Icon: icon major fa-cog
+feature4Title: Veroeros quis lorem
+feature4Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature4Icon: icon major fa-desktop
+feature5Title: Urna quis bibendum
+feature5Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature5Icon: icon major fa-chain
+feature6Title: Aliquam urna dapibus
+feature6Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
+feature6Icon: icon major fa-diamond

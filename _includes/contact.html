@@ -1,0 +1,63 @@
+<section id="three" class="wrapper style1 fade-up">
+	<div class="inner">
+		<h2>Hubungi Kami</h2>
+		<p>{{ site.contactTagline }}</p>
+		<div class="split style1">
+			<section>
+				<form method="post" action="https://formspree.io/{{ site.email }}">
+					<div class="field half first">
+						<label for="name">Nama</label>
+						<input type="text" name="name" id="name" />
+					</div>
+					<div class="field half">
+						<label for="email">Surel</label>
+						<input type="text" name="email" id="email" />
+					</div>
+					<div class="field">
+						<label for="message">Pesan</label>
+						<textarea name="message" id="message" rows="5"></textarea>
+					</div>
+					<ul class="actions">
+						<li><a href="" class="button submit">Kirim Pesan</a></li>
+					</ul>
+				</form>
+			</section>
+			<section>
+				<ul class="contact">
+					{% if site.address %}
+					<li>
+						<h3>Alamat</h3>
+						<span>{{ site.address }}</span>
+					</li>
+					{% endif %}
+					{% if site.email %}
+					<li>
+						<h3>Surel</h3>
+						<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+					</li>
+					{% endif %}
+					{% if site.phone %}
+					<li>
+						<h3>Telefon</h3>
+						<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+					</li>
+					{% endif %}
+					<li>
+						<h3>Media Sosial</h3>
+						<ul class="icons">
+							{% if site.facebook %}
+							<li><a href="https://www.facebook.com/{{ site.facebook }}" class="fa-facebook"><span class="label">Facebook</span></a></li>
+							{% endif %}
+							{% if site.github %}
+							<li><a href="https://github.com/{{ site.github }}" class="fa-github"><span class="label">GitHub</span></a></li>
+							{% endif %}
+							{% if site.linkedin %}
+							<li><a href="https://www.linkedin.com/company/{{ site.linkedin }}" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							{% endif %}
+						</ul>
+					</li>
+				</ul>
+			</section>
+		</div>
+	</div>
+</section>
